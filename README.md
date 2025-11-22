@@ -4,6 +4,9 @@ ForBookingFlightAndHotels
 
 ![Demo](https://a1bdelrahmanrezk.github.io/Sfriat-App/sfriat_app.gif)
 
+[Watch Full Video](https://a1bdelrahmanrezk.github.io/Sfriat-App/sfriat_app.mp4)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
