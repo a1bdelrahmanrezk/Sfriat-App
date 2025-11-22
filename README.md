@@ -4,6 +4,7 @@ ForBookingFlightAndHotels
 
 <video src="https://a1bdelrahmanrezk.github.io/Sfriat-App/sfriat_app.mp4" autoplay muted loop playsinline width="500"></video>
 
+![Demo](https://a1bdelrahmanrezk.github.io/Sfriat-App/sfriat_app.gif)
 
 ## Getting Started
 
