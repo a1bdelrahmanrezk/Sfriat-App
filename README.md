@@ -2,6 +2,8 @@
 
 ForBookingFlightAndHotels
 
+<video src="./docs/sfriat_app.mp4" autoplay muted loop playsinline width="600"></video>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
