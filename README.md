@@ -2,7 +2,7 @@
 
 ForBookingFlightAndHotels
 
-<video src="./docs/sfriat_app.mp4" autoplay muted loop playsinline width="600"></video>
+<video src="./docs/sfriat_app.mp4" autoplay muted loop playsinline width="250"></video>
 
 ## Getting Started
 
