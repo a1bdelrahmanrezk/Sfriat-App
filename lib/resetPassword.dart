@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:safaryatproject/Login.dart';
-import 'package:safaryatproject/theHomePage.dart';
-import 'package:safaryatproject/widgets/palette.dart';
+import 'package:safaryat/login.dart';
+import 'package:safaryat/theHomePage.dart';
+import 'package:safaryat/widgets/palette.dart';
 import 'widgets/widgets.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
@@ -56,7 +56,7 @@ class ResetPassword extends StatelessWidget {
                                   decoration: InputDecoration(
                                     contentPadding: const EdgeInsets.symmetric(vertical: 20,horizontal: 20),
                                     border: InputBorder.none,
-                                    hintText: 'Phone Number',
+                                    hintText: 'Email',
                                     hintStyle: TextStyle(fontSize: 20,color: Colors.white),
                                   ),
                                   style: sBodyText,

@@ -6,8 +6,8 @@ import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:safaryatproject/hotelSearch.dart';
-import 'package:safaryatproject/theHomePage.dart';
+import 'package:safaryat/hotelSearch.dart';
+import 'package:safaryat/theHomePage.dart';
 import 'calenderDate.dart';
 import 'hotelPassengersPage.dart';
 

@@ -6,10 +6,10 @@ import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:safaryatproject/calenderDate.dart';
-import 'package:safaryatproject/flightSearch.dart';
-import 'package:safaryatproject/Login.dart';
-import 'package:safaryatproject/theHomePage.dart';
+import 'package:safaryat/calenderDate.dart';
+import 'package:safaryat/flightSearch.dart';
+import 'package:safaryat/login.dart';
+import 'package:safaryat/theHomePage.dart';
 
 import 'flightPassengersPage.dart';
 import 'loadingPage.dart';

@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:safaryatproject/theHomePage.dart';
-import 'package:safaryatproject/widgets/palette.dart';
+import 'package:safaryat/theHomePage.dart';
+import 'package:safaryat/widgets/palette.dart';
 import 'resetPassword.dart';
 import 'widgets/widgets.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';

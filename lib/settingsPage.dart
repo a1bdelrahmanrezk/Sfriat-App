@@ -2,11 +2,11 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:safaryatproject/languagesPage.dart';
-import 'package:safaryatproject/locationsPage.dart';
-import 'package:safaryatproject/profileEdit.dart';
-import 'package:safaryatproject/startpage.dart';
-import 'package:safaryatproject/theHomePage.dart';
+import 'package:safaryat/languagesPage.dart';
+import 'package:safaryat/locationsPage.dart';
+import 'package:safaryat/profileEdit.dart';
+import 'package:safaryat/startpage.dart';
+import 'package:safaryat/theHomePage.dart';
 
 import 'favouritePage.dart';
 import 'myBooking.dart';

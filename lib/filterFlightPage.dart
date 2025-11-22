@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:safaryatproject/flightSearch.dart';
+import 'package:safaryat/flightSearch.dart';
 
 class fliterFlightPage extends StatefulWidget {
   const fliterFlightPage({ Key? key }) : super(key: key);

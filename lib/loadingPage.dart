@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:safaryatproject/flightSearch.dart';
-import 'package:safaryatproject/theHomePage.dart';
+import 'package:safaryat/flightSearch.dart';
+import 'package:safaryat/theHomePage.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:loading_animations/loading_animations.dart';
 

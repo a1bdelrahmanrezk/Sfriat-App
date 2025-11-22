@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:safaryatproject/hotelSearch.dart';
-import 'package:safaryatproject/paymentMethods.dart';
+import 'package:safaryat/hotelSearch.dart';
+import 'package:safaryat/paymentMethods.dart';
 
 class hotelDetailes extends StatefulWidget {
   const hotelDetailes({ Key? key }) : super(key: key);

@@ -3,10 +3,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
-import 'package:safaryatproject/CustomShapeClipper.dart';
-import 'package:safaryatproject/hotelDetails.dart';
-import 'package:safaryatproject/flightInfo.dart';
-import 'package:safaryatproject/theHomePage.dart';
+import 'package:safaryat/CustomShapeClipper.dart';
+import 'package:safaryat/hotelDetails.dart';
+import 'package:safaryat/flightInfo.dart';
+import 'package:safaryat/theHomePage.dart';
 
 import 'filterFlightPage.dart';
 

@@ -6,14 +6,14 @@ import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:safaryatproject/CustomShapeClipper.dart';
-import 'package:safaryatproject/favouritePage.dart';
-import 'package:safaryatproject/flightInfo.dart';
-import 'package:safaryatproject/hotelInfo.dart';
-import 'package:safaryatproject/myBooking.dart';
-import 'package:safaryatproject/settingsPage.dart';
-import 'package:safaryatproject/signup.dart';
-import 'Login.dart';
+import 'package:safaryat/CustomShapeClipper.dart';
+import 'package:safaryat/favouritePage.dart';
+import 'package:safaryat/flightInfo.dart';
+import 'package:safaryat/hotelInfo.dart';
+import 'package:safaryat/myBooking.dart';
+import 'package:safaryat/settingsPage.dart';
+import 'package:safaryat/signup.dart';
+import 'login.dart';
 
 void main() => runApp(MaterialApp(
   title: 'Home Page for Travel App',

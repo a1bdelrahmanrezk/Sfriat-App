@@ -2,10 +2,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
-import 'package:safaryatproject/signup.dart';
-import 'package:safaryatproject/theHomePage.dart';
-import 'package:safaryatproject/widgets/palette.dart';
-import 'Login.dart';
+import 'package:safaryat/signup.dart';
+import 'package:safaryat/theHomePage.dart';
+import 'package:safaryat/widgets/palette.dart';
+import 'login.dart';
 import 'widgets/widgets.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
